@@ -9,7 +9,7 @@ license:             MIT
 license-file:        LICENSE
 author:              Rick Owens
 maintainer:          rick@owensmurray.com
-copyright:           2022 Owens Murray, LLC.
+copyright:           2025 Owens Murray, LLC.
 category:            CRDT
 build-type:          Simple
 extra-source-files:  README.md
@@ -17,10 +17,10 @@ extra-source-files:  README.md
 common dependencies
   build-depends:
     , aeson              >= 2.0.3.0  && < 2.3
-    , base               >= 4.15.1.0 && < 4.21
+    , base               >= 4.15.1.0 && < 4.22
     , binary             >= 0.8.8.0  && < 0.9
     , containers         >= 0.6.4.1  && < 0.8
-    , data-default-class >= 0.1.2.0  && < 0.2
+    , data-default-class >= 0.1.2.0  && < 0.3
     , data-dword         >= 0.3.2.1  && < 0.4
     , exceptions         >= 0.10.4   && < 0.11
     , monad-logger       >= 0.3.36   && < 0.4
